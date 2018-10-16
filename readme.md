@@ -19,7 +19,7 @@ Social links: [Github](https://github.com/ivanzoid), [Linkedin](https://www.link
 ## Employment History
 - ##### Senior iOS Developer at [Loud & Clear](https://loudclear.com.au)
   Nov 2016 — Jun 2018
-- ##### Senior iOS Developer at AppsQuick.ly
+- ##### Senior iOS Developer at [AppsQuick.ly](http://appsquick.ly)
   Oct 2015 — Aug 2016
 - ##### Software Architect (Mobile) at [Thumbtack Technology](https://thumbtack.ru)
   Jan 2015 — Oct 2015
