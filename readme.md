@@ -7,7 +7,7 @@ Social links: [Github](https://github.com/ivanzoid), [Linkedin](https://www.link
 - Primary programming languages: Objective-C, Swift, Go
 - Worked with: C, C++, Python, PHP, Ruby, Javascript, Bash, Windows shell language, Assembly (x86), SQL, HTML, CSS
 - Frameworks and libraries:
-  - iOS: AVFoundation, AddressBook, CoreAnimation, CoreData, CoreGraphics, CoreLocation, EventKit, MapKit, QuartsCore, Security, StoreKit, UIKit
+  - iOS: AVFoundation, AddressBook, CoreAnimation, CoreData, CoreGraphics, CoreLocation, EventKit, MapKit, QuartzCore, Security, StoreKit, UIKit
   - iOS 3rd party: AFNetworking, BaseModel, Circle CI, CocoaLumberjack, Crashlytics, Fabric, Facebook iOS SDK, Firebase, GCDAsyncSocket, Google Analytics, Google protocol buffers, KissXML, MagicalRecord, Masonry, PureLayout, Realm, SBJSON, ShareKit, TBXML, TPKeyboardAvoiding, TestFairy, Twitter API, Typhoon, TyphoonRestClient, VIPER, Youtube iOS API, 
   - Backend: Amazon AWS (S3, EC2, DynamoDB, Redshift), Ansible, Various linux command line tools
   - C++: Qt, wxWidgets, STL
