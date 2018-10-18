@@ -17,21 +17,21 @@ Social links: [Github](https://github.com/ivanzoid), [Linkedin](https://www.link
 - English: Technical vocabulary, reading 8/10, writing 7/10, speaking 7/10
 
 ## Employment History
-- ##### Senior iOS Developer at [Loud & Clear](https://loudclear.com.au)
+- #### Senior iOS Developer at [Loud & Clear](https://loudclear.com.au)
   Nov 2016 — Jun 2018
-- ##### Senior iOS Developer at [AppsQuick.ly](http://appsquick.ly)
+- #### Senior iOS Developer at [AppsQuick.ly](http://appsquick.ly)
   Oct 2015 — Aug 2016
-- ##### Software Architect (Mobile) at [Thumbtack Technology](https://thumbtack.ru)
+- #### Software Architect (Mobile) at [Thumbtack Technology](https://thumbtack.ru)
   Jan 2015 — Oct 2015
-- ##### Lead iOS Developer at [Al Digit](http://aldigit.com)
+- #### Lead iOS Developer at [Al Digit](http://aldigit.com)
   Jun 2012 — Dec 2014
-- ##### Senior iOS Developer at [Al Digit](http://aldigit.com)
+- #### Senior iOS Developer at [Al Digit](http://aldigit.com)
   Jul 2011 — May 2012
-- ##### iOS Developer at [Al Digit](http://aldigit.com)
+- #### iOS Developer at [Al Digit](http://aldigit.com)
   Jun 2010 — Jun 2011
-- ##### Desktop apps developer at Freelance
+- #### Desktop apps developer at Freelance
   May 2007 — May 2010
-- ##### Software developer at [ISS Art Ltd.](https://issart.com)
+- #### Software developer at [ISS Art Ltd.](https://issart.com)
   Nov 2006 — Mar 2007
 
 ## Education
@@ -42,12 +42,12 @@ Social links: [Github](https://github.com/ivanzoid), [Linkedin](https://www.link
 
 ## Work examples (apps)
 
-- ##### [Fernwood Fitness](https://itunes.apple.com/au/app/fernwood/id1433822715)
+- ### [Fernwood Fitness](https://itunes.apple.com/au/app/fernwood/id1433822715)
   _App for Australia’s largest female [fitness network](https://www.fernwoodfitness.com.au)._  
   Responsibilities: UI, Business logic and networking code.  
   Technologies: UIKit, TyphoonRestClient, OpenApi 3.0.
 
-- #### [Fisho](https://www.fishoapp.com.au)
+- ### [Fisho](https://www.fishoapp.com.au)
   _Social network for fishers in Australia._  
   Responsibilities: UI, Business logic and networking code.  
   Technologies: UIKit, CorePlot, VIPER, TyphoonRestClient, OpenApi 2.0
