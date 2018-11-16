@@ -1,10 +1,10 @@
 # Ivan Zezyulya
 #### iOS Developer
-Omsk, Russia
+Omsk, Russia  
 Social links: [Github](https://github.com/ivanzoid), [Linkedin](https://www.linkedin.com/in/ivanzezyulya/), [VK](https://vk.com/ivanzoid), [Telegram](http://t.me/ivanzoid)
 
 ## Technical skills
-- Primary programming languages: Objective-C, Swift, Go
+- Primary programming languages: Swift, Objective-C, Go
 - Worked with: C, C++, Python, PHP, Ruby, Javascript, Bash, Windows shell language, Assembly (x86), SQL, HTML, CSS
 - Frameworks and libraries:
   - iOS: AVFoundation, AddressBook, CoreAnimation, CoreData, CoreGraphics, CoreLocation, EventKit, MapKit, QuartzCore, Security, StoreKit, UIKit
