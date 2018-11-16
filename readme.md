@@ -1,7 +1,7 @@
 # Ivan Zezyulya
 #### iOS Developer
 Omsk, Russia  
-Social links: [Github](https://github.com/ivanzoid), [Linkedin](https://www.linkedin.com/in/ivanzezyulya/), [VK](https://vk.com/ivanzoid), [Telegram](http://t.me/ivanzoid)
+Social links: [GitHub](https://github.com/ivanzoid), [LinkedIn](https://www.linkedin.com/in/ivanzezyulya/), [VK](https://vk.com/ivanzoid), [Telegram](http://t.me/ivanzoid)
 
 ## Technical skills
 - Primary programming languages: Swift, Objective-C, Go
