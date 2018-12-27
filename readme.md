@@ -45,6 +45,7 @@ Social links: [GitHub](https://github.com/ivanzoid), [LinkedIn](https://www.link
 - ### [Vampr](http://www.vampr.me)
   _Social network for musicians._  
   _In [Best of 2017](https://web.archive.org/web/20180125053240/https://developer.apple.com/app-store/best-of-2017/trends-of-the-year/) list by Apple._  
+  _As of November 2018, the app has facilitated over 3.5 million professional connections worldwide._  
   Responsibilities: UI, Business logic and networking code.  
   Technologies: UIKit, TyphoonRestClient.
 
