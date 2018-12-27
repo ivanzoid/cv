@@ -78,7 +78,7 @@ Social links: [GitHub](https://github.com/ivanzoid), [LinkedIn](https://www.link
   Responsibilities: developing all networking code, business logics for operations with deals (open/close/change), part of UI.  
   Technologies: TCP sockets, UIKit, OpenGL, CoreData, GCD.
 
-- ### Nissan NI-PiK
+- ### [Nissan NI-PiK](https://vimeo.com/43107303)
   _Application with cars' Gallery, Technical characteristics, List of colors, Compare to competitors, Register Client and other features for Nissan._  
   Responsibilities: adding features to application, fixing bugs  
   Technologies: UIKit, SOAP, JSON
