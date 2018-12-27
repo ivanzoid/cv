@@ -83,7 +83,7 @@ Social links: [GitHub](https://github.com/ivanzoid), [LinkedIn](https://www.link
   Responsibilities: adding features to application, fixing bugs  
   Technologies: UIKit, SOAP, JSON
 
-- ### OwlCity Galaxy
+- ### [OwlCity Galaxy](https://www.facebook.com/owlcity/posts/new-version-of-the-owl-city-galaxy-iphone-app-available-now-install-the-latest-u/203513706370561/)
   _OwlCity Galaxy is feature-rich promo application for UK band “Owl City”, which includes: 3D Galaxy View, Comment system, Embedded music player, Lyrics & images for songs, OwlCity Calendar, Videos, List of your friends, Customize your planet, Integrated fan store._  
   Responsibilities: main developer  
   Technologies: SIO2 (3D Engine for iPhone/Android), XMPPFramework (XMPP/Jabber library for iOS), Urban Airship (Push notifications), ASIHttpRequest (networking), Twitter API, Facebook SDK, Google Calendar API, Youtube API, Airbrake (error reporting), SudzC (SOAP service wrappers generator).
