@@ -42,10 +42,11 @@ Social links: [GitHub](https://github.com/ivanzoid), [LinkedIn](https://www.link
 
 ## Work examples (apps)
 
-- ### [Fernwood Fitness](https://itunes.apple.com/au/app/fernwood/id1433822715)
-  _App for Australia’s largest female [fitness network](https://www.fernwoodfitness.com.au)._  
+- ### [Vampr](http://www.vampr.me)
+  _Social network for musicians._  
+  _In [Best of 2017](https://web.archive.org/web/20180125053240/https://developer.apple.com/app-store/best-of-2017/trends-of-the-year/) list by Apple._  
   Responsibilities: UI, Business logic and networking code.  
-  Technologies: UIKit, TyphoonRestClient, OpenApi 3.0.
+  Technologies: UIKit, TyphoonRestClient.
 
 - ### [Fisho](https://www.fishoapp.com.au)
   _Social network for fishers in Australia._  
@@ -57,10 +58,10 @@ Social links: [GitHub](https://github.com/ivanzoid), [LinkedIn](https://www.link
   Responsibilities: UI, Business logic and networking code.  
   Technologies: UIKit, VIPER, TyphoonRestClient.
 
-- ### [Vampr](http://www.vampr.me)
-  _Social network for musicians._  
+- ### [Fernwood Fitness](https://itunes.apple.com/au/app/fernwood/id1433822715)
+  _App for Australia’s largest female [fitness network](https://www.fernwoodfitness.com.au)._  
   Responsibilities: UI, Business logic and networking code.  
-  Technologies: UIKit, TyphoonRestClient.
+  Technologies: UIKit, TyphoonRestClient, OpenApi 3.0.
 
 - ### [iHerb](https://itunes.apple.com/us/app/iherb/id636609212)
   _Mobile app for iHerb online store._  
