@@ -1,6 +1,10 @@
 # Ivan Zezyulya
 #### iOS Developer
 Omsk, Russia  
+<img align="right" src="images/photo.png"/>  
+
+### iOS Developer
+📍 Omsk, Russia  
 Social links: [GitHub](https://github.com/ivanzoid), [LinkedIn](https://www.linkedin.com/in/ivanzezyulya/), [VK](https://vk.com/ivanzoid), [Telegram](http://t.me/ivanzoid)  
 Up to date version of this CV: https://github.com/ivanzoid/cv
 
