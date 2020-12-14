@@ -95,25 +95,26 @@ Up to date version of this CV: https://github.com/ivanzoid/cv
   Responsibilities: UI, Business logic and networking code.  
   Technologies: UIKit, TyphoonRestClient.
 
+- ### [The Sun Dream Team FC](https://www.dreamteamfc.com/c/)
+  _Fantasy football app for English Premier League. 500K users/month after launch._  
+  Responsibilities: UI, Business logic and networking code.  
+  Technologies: UIKit, VIPER, TyphoonRestClient.
+  
+- ### [iHerb](https://itunes.apple.com/us/app/iherb/id636609212)
+  _Mobile app for iHerb online store._  
+  Participated in base stage of app development.
+  Responsibilities: Base architecture, home screen UI, networking code.  
+  Technologies: UIKit.
+
 - ### [Fisho](https://www.fishoapp.com.au)
   _Social network for fishers in Australia._  
   Responsibilities: UI, Business logic and networking code.  
   Technologies: UIKit, CorePlot, VIPER, TyphoonRestClient, OpenApi 2.0
 
-- ### [The Sun Dream Team FC](https://www.dreamteamfc.com/c/)
-  _Fantasy football app for English Premier League. 500K users/month after launch._  
-  Responsibilities: UI, Business logic and networking code.  
-  Technologies: UIKit, VIPER, TyphoonRestClient.
-
 - ### [Fernwood Fitness](https://itunes.apple.com/au/app/fernwood/id1433822715)
   _App for Australia’s largest female [fitness network](https://www.fernwoodfitness.com.au)._  
   Responsibilities: UI, Business logic and networking code.  
   Technologies: UIKit, TyphoonRestClient, OpenApi 3.0.
-
-- ### [iHerb](https://itunes.apple.com/us/app/iherb/id636609212)
-  _Mobile app for iHerb online store._  
-  Responsibilities: Base architecture, home screen UI, networking code.  
-  Technologies: UIKit.
 
 - ### [Momatu](https://itunes.apple.com/us/app/momatu/id1313564080)
   _App for organizing memories._  
@@ -151,10 +152,33 @@ Up to date version of this CV: https://github.com/ivanzoid/cv
   Technologies: UIKit
 
 - ### [Apartment search applications](https://itunes.apple.com/us/app/henry-adams/id377862665)
-  _Series of applications (24 apps) for real estate agencies._  
+  _Series of applications (20+ apps) for real estate agencies in UK._  
   Responsibilities: fixing bugs, improving application, adding features, implementing new applications for other agencies.
   Technologies: UIKit, CoreLocation, XML, MapKit.  
-  List of applications developed: Aspire, Gascoigne Halman, [Henry Adams](https://itunes.apple.com/us/app/henry-adams/id377862665), Parklane Properties, Chase Buchanan, Homezone, Walkers Estate Agents, BELVOIR!, Lex Allan Estate Agents, Manning Stainton, Bective Leslie March, Icon Residential, Morgan Randall, Michael Graham, Waterfords, The Property Lounge, Chase Buchanan, Life Residential, Move Revolution, Colin Bibra, Living Residential Estate, Oliver's Town, Beresfords Estate Agents, Winchester Lettings
+  List of clients/applications developed: 
+  - [Aspire](https://www.aspire.co.uk/)
+  - [Bective Leslie March](https://bective.co.uk/)
+  - [BELVOIR!](https://www.belvoir.co.uk/)
+  - [Beresfords Estate Agents](https://www.beresfords.co.uk/)
+  - [Chase Buchanan](https://www.chasebuchanan.london/)
+  - [Colin Bibra](https://www.colinbibra.com)
+  - [Gascoigne Halman](https://www.gascoignehalman.co.uk/)
+  - [Henry Adams](https://itunes.apple.com/us/app/henry-adams/id377862665)
+  - [Icon Residential](https://iconresliving.com/)
+  - [Lex Allan Estate Agents](https://lexallan.co.uk/)
+  - [Life Residential](https://liferesidential.co.uk/)
+  - [Living Residential Estate](https://www.livingresidential.com/)
+  - [Manning Stainton](https://manningstainton.co.uk/)
+  - [Michael Graham](https://michaelgraham.co.uk/)
+  - [Morgan Randall](https://www.morganrandall.com/)
+  - [Move Revolution](https://www.moverevolution.com/)
+  - [Oliver's Town](https://oliverstown.com/)
+  - [Parklane Properties](https://www.parklaneproperties.com/)
+  - [The Property Lounge](http://www.thepropertylounge.co.uk/)
+  - [Walkers Estate Agents](https://www.walkersestates.co.uk/)
+  - [Waterfords](https://www.waterfords.co.uk/)
+  - [Winchester Lettings](https://www.winchester-white.co.uk/)
+
 
 - ### [Apartment Rentals](https://itunes.apple.com/us/app/apartment-rentals/id588135302)
   _Find apartments, codos and houses for rent with the ApartmentRentals.com mobile app. Search for properties nearby, filter by price, bathrooms and bedrooms. See pictures and floor plans, and contact listings by phone or by submitting a form from within the app._  
