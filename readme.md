@@ -1,24 +1,69 @@
 # Ivan Zezyulya
 #### iOS Developer
 Omsk, Russia  
-Social links: [GitHub](https://github.com/ivanzoid), [LinkedIn](https://www.linkedin.com/in/ivanzezyulya/), [VK](https://vk.com/ivanzoid), [Telegram](http://t.me/ivanzoid)
+Social links: [GitHub](https://github.com/ivanzoid), [LinkedIn](https://www.linkedin.com/in/ivanzezyulya/), [VK](https://vk.com/ivanzoid), [Telegram](http://t.me/ivanzoid)  
 Up to date version of this CV: https://github.com/ivanzoid/cv
 
 ## Technical skills
-- Primary programming languages: Swift, Objective-C, Go
-- Worked with: C, C++, Python, PHP, Ruby, Javascript, Bash, Windows shell language, Assembly (x86), SQL, HTML, CSS
+- Primary programming languages: Swift
+- Worked with: Objective-C, Golang, C, C++, Python, PHP, Ruby, JavaScript, Bash, Assembly (x86), SQL, HTML, CSS
 - Frameworks and libraries:
-  - iOS: AVFoundation, AddressBook, CoreAnimation, CoreData, CoreGraphics, CoreLocation, EventKit, MapKit, QuartzCore, Security, StoreKit, UIKit
-  - iOS 3rd party: AFNetworking, BaseModel, Circle CI, CocoaLumberjack, Crashlytics, Fabric, Facebook iOS SDK, Firebase, GCDAsyncSocket, Google Analytics, Google protocol buffers, KissXML, MagicalRecord, Masonry, PureLayout, Realm, SBJSON, ShareKit, TBXML, TPKeyboardAvoiding, TestFairy, Twitter API, Typhoon, TyphoonRestClient, VIPER, Youtube iOS API, 
-  - Backend: Amazon AWS (S3, EC2, DynamoDB, Redshift), Ansible, Various linux command line tools
-  - C++: Qt, wxWidgets, STL
-  - Python: Django
-- Development environments: Xcode, AppCode, Intellij IDEA, VS Code, Atom, Sublime Text, Vim
+    - iOS standard:
+      - AVFoundation (video conversion/merging/cutting)
+      - AddressBook (contact list)
+      - AudioToolbox (low-level audio playback)
+      - CFNetwork (low-level networking)
+      - CoreAnimation (= QuartzCore, advanced animations)
+      - CoreData
+      - CoreGraphics (manual drawing)
+      - CoreLocation
+      - CoreMotion (AR before ARKit)
+      - CoreTelephony (determining cellular network type)
+      - EventKit (adding/reading events in calendar)
+      - MapKit
+      - Metal
+      - Photos
+      - Security (interacting with Keychain)
+      - Social
+      - StoreKit (in-app purchases)
+      - UIKit
+      - UserNotifications
+    - iOS 3rd party: 
+      - Bugfender 
+      - Circle CI
+      - Firebase/Google Analytics
+      - Google protobuf
+      - Lottie
+      - MagicalRecord
+      - R.swift
+      - Realm
+      - RxCocoa
+      - RxSwift
+      - Sentry API
+      - SnapKit
+      - SoundCloud API
+      - SwiftLint
+      - Youtube API
+    - Backend:
+      - Ubuntu Server
+      - Ansible
+      - Some Amazon AWS products (S3, EC2, DynamoDB, Redshift)
+      - bash
+      - rsync
+      - scp
+      - screen
+      - httpie
+    - C++: Qt, wxWidgets, STL
+    - Python: Django
+- Architecture patterns: MVVM, VIPER, MVC
+- Development environments: Xcode, AppCode, Intellij IDEA, VS Code, Sublime Text, Atom, Vim
 - Version control: Git, Subversion
 - English: Technical vocabulary, reading 8/10, writing 7/10, speaking 7/10
 
 ## Employment History
-- #### Senior iOS Developer at [Loud & Clear](https://loudclear.com.au)
+- #### Senior iOS Developer at [Effective](https://effective.band/)
+  Oct 2018 — Now
+- #### Senior iOS Developer at [Loud & Clear](https://loudclear.com.au) (aquired in 2018 by [Avanade](https://www.avanade.com/))
   Nov 2016 — Jun 2018
 - #### Senior iOS Developer at [AppsQuick.ly](http://appsquick.ly)
   Oct 2015 — Aug 2016
