@@ -1,9 +1,15 @@
 # Ivan Zezyulya
 <img align="right" src="images/photo.png"/>  
 
-### iOS Developer
+## iOS Developer
 📍 Omsk, Russia  
-Social links: [GitHub](https://github.com/ivanzoid), [LinkedIn](https://www.linkedin.com/in/ivanzezyulya/), [VK](https://vk.com/ivanzoid), [Telegram](http://t.me/ivanzoid)  
+Social links: 
+ - [GitHub](https://github.com/ivanzoid)
+ - [StackOverflow](https://stackoverflow.com/users/299063/ivanzoid)
+ - [LinkedIn](https://www.linkedin.com/in/ivanzezyulya/)
+ - [Telegram](http://t.me/ivanzoid)
+ - [VK](https://vk.com/ivanzoid)
+
 Up to date version of this CV: https://github.com/ivanzoid/cv
 
 ## About
@@ -95,7 +101,7 @@ About 9 years in iOS development.
 
 - ## [Vampr](http://www.vampr.me)
   _Social network for musicians._  
-  _In [Best of 2017](https://web.archive.org/web/20180125053240/https://developer.apple.com/app-store/best-of-2017/trends-of-the-year/) list by Apple._  
+  _In [Best of 2017](https://web.archive.org/web/20180125053240/https://developer.apple.com/app-store/best-of-2017/trends-of-the-year/) app list by Apple._  
   3.5M+ connections as of Nov 2018.
 
   Achievements:
@@ -107,10 +113,10 @@ About 9 years in iOS development.
   Stack: UIKit, UIKit Dynamics, MVC.
 
 - ## [The Sun Dream Team FC](https://www.dreamteamfc.com/c/)
-  _Fantasy football app for English Premier League.  
-  500K users/month after launch._  
+  _Fantasy football app for English Premier League._  
+  500K users/month after launch.  
   Responsibilities: UI, Business logic and networking code. Implemented player field screen in 3D using UIKit.   
-  Stack: UIKit, VIPER.  
+  Stack: UIKit, VIPER, CoreData.  
   Links:
     - https://www.dreamteamfc.com/c/
     - https://apps.apple.com/gb/app/dream-team-fantasy-football/id337710261
