@@ -47,9 +47,10 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
 
 ### **Work examples (apps)**
 
-* **Vampr**  
-  <img align="right" src="images/apps/vampr.png" width="110"/>
-  _Social network for musicians._  
+* #### **Vampr**
+  <img align="right" src="images/apps/vampr.png" width="110"/>  
+
+  _Social network for musicians._
   In [Best of 2017](https://web.archive.org/web/20180125053240/https://developer.apple.com/app-store/best-of-2017/trends-of-the-year/) app list by Apple.  
   3.5M+ connections as of Nov 2018.  
   https://vampr.me
@@ -62,8 +63,11 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
 
   _Stack_: UIKit, UIKit Dynamics, MVC.
 
-* **The Sun Dream Team FC**  
+<br/>
+
+* #### **The Sun Dream Team FC**  
   <img align="right" src="images/apps/dreamteam.png" width="100"/> 
+
   _Fantasy football app for English Premier League._  
   500K users/month after launch.  
   https://www.dreamteamfc.com/c/  
@@ -75,7 +79,9 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
 
   _Stack_: UIKit, VIPER, CoreData.  
 
-* **iHerb**  
+<br/>
+
+* #### **iHerb**  
   _Mobile app for iHerb online store._  
   Participated in base stage of app development.  
   https://itunes.apple.com/us/app/iherb/id636609212
@@ -87,10 +93,175 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
   
   _Stack_: UIKit, AFNetworking.
 
-* **Interactive Display**  
+<br/>
+
+* #### **Interactive Display**  
   _iPad demo stand application for some retail networks in US._  
   _Responsibilities_:
     - Implementing new features
     - Unit tests.
 
   _Stack_: Swift, MVVM, Storyboards, iPad, Realm, GCD/NSOperationQueue, RxSwift.
+
+<br/>
+
+- #### **Mokka**
+  _Finance service client._  
+  https://apps.apple.com/us/app/id1499342014  
+
+  _Responsibilities_: implementing features.  
+
+  _Stack_: Swift, MVVM, SnapKit.
+
+<br/>
+
+- #### **Fernwood Fitness**
+  _App for Australia’s largest female fitness network, Fernwood Fitness._  
+  https://www.fernwoodfitness.com.au  
+  https://itunes.apple.com/au/app/fernwood/id1433822715  
+  
+  _Responsibilities_: UI, Business logic and networking code.  
+  
+  _Stack_: UIKit, OpenApi 3.0.
+
+<br/>
+
+- #### **Fisho**
+  _Social network for fishers in Australia._  
+  https://www.fishoapp.com.au  
+
+  _Responsibilities_: UI, Business logic and networking code. 
+
+  _Stack_: UIKit, CorePlot, VIPER, OpenApi 2.0 (Swagger)
+
+<br/>
+
+- #### **Momatu**
+  _App for organizing memories._  
+  https://itunes.apple.com/us/app/momatu/id1313564080  
+
+  _Responsibilities_: UI, Business logic and networking code. 
+
+  _Stack_: UIKit, UIKit Dynamics.
+
+<br/>
+
+- #### **StartFX**
+  _Trading terminal app._  
+  https://itunes.apple.com/us/app/startfx/id684181266  
+
+  _Responsibilities_: 
+    - developing all networking code
+    - business logics for operations with deals (open/close/change)
+    - part of UI.
+
+  _Stack_: 
+    - TCP sockets
+    - UIKit
+    - OpenGL (with custom shaders for graphs)
+    - CoreData
+    - GCD.
+
+<br/>
+
+- #### **Nissan NI-PiK**
+  _Application with cars' Gallery, Technical characteristics, List of colors, Compare to competitors, Register Client and other features for Nissan._  
+  https://vimeo.com/43107303  
+
+  _Responsibilities_: adding features to application, fixing bugs  
+
+  _Stack_: UIKit, SOAP, JSON
+
+<br/>
+
+- #### **OwlCity Galaxy**
+  _OwlCity Galaxy is feature-rich promo application for UK band “Owl City”.  
+  It included: 3D Galaxy View, Comment system, Embedded music player, Lyrics & images for songs, OwlCity Calendar, Videos, List of your friends, Customize your planet, Integrated fan store._  
+  https://www.facebook.com/owlcity/posts/new-version-of-the-owl-city-galaxy-iphone-app-available-now-install-the-latest-u/203513706370561/  
+
+  _Responsibilities_:
+    - Main developer
+
+  _Stack_: 
+    - SIO2 (3D Engine for iPhone/Android)
+    - XMPPFramework (XMPP/Jabber library for iOS)
+    - Urban Airship (Push notifications)
+    - ASIHttpRequest (networking)
+    - Twitter API
+    - Facebook SDK
+    - Google Calendar API
+    - Youtube API
+    - Airbrake (error reporting)
+    - SudzC (SOAP service wrappers generator)  
+
+<br/>
+
+- #### **_Apartment search applications_**
+  _Series of applications (20+ apps) for real estate agencies in UK._  
+  https://itunes.apple.com/us/app/henry-adams/id377862665  
+
+  _Responsibilities_: fixing bugs, improving application, adding features, implementing new applications for other agencies.
+
+  _Stack_: UIKit, CoreLocation, XML, MapKit.  
+
+  List of clients/applications developed: 
+    - [Aspire](https://www.aspire.co.uk/)
+    - [Bective Leslie March](https://bective.co.uk/)
+    - [BELVOIR!](https://www.belvoir.co.uk/)
+    - [Beresfords Estate Agents](https://www.beresfords.co.uk/)
+    - [Chase Buchanan](https://www.chasebuchanan.london/)
+    - [Colin Bibra](https://www.colinbibra.com)
+    - [Gascoigne Halman](https://www.gascoignehalman.co.uk/)
+    - [Henry Adams](https://itunes.apple.com/us/app/henry-adams/id377862665)
+    - [Icon Residential](https://iconresliving.com/)
+    - [Lex Allan Estate Agents](https://lexallan.co.uk/)
+    - [Life Residential](https://liferesidential.co.uk/)
+    - [Living Residential Estate](https://www.livingresidential.com/)
+    - [Manning Stainton](https://manningstainton.co.uk/)
+    - [Michael Graham](https://michaelgraham.co.uk/)
+    - [Morgan Randall](https://www.morganrandall.com/)
+    - [Move Revolution](https://www.moverevolution.com/)
+    - [Oliver's Town](https://oliverstown.com/)
+    - [Parklane Properties](https://www.parklaneproperties.com/)
+    - [The Property Lounge](http://www.thepropertylounge.co.uk/)
+    - [Walkers Estate Agents](https://www.walkersestates.co.uk/)
+    - [Waterfords](https://www.waterfords.co.uk/)
+    - [Winchester Lettings](https://www.winchester-white.co.uk/)
+
+<br/>
+
+- #### **Backend server for HAPOC game** 
+  _HAPOC is online multiplayer casual game for guessing words by first letters._  
+  https://itunes.apple.com/us/app/hapoc-human-animal-plant-object/id497325725?mt=8  
+
+  _Responsibilities_: develop from scratch server for iOS game Hapoc  
+
+  _Stack_: Python 2.6, TCP sockets, Linux
+
+<br/>
+
+- #### **Custody Connection**
+  _Custody Connection is an easily viewable calendar, where parents can sync with each other to create, manage, trade days and view their custody schedule in one central location, anytime, anywhere they go with their iPhone, iTouch or iPad._  
+  https://itunes.apple.com/us/app/custody-connection/id472605882  
+
+  _Responsibilities_: fixing bugs, adding new features  
+
+  _Stack_: iOS: UIKit, CoreData, Calendar API; Server-side: C#, MS SQL Server
+
+<br/>
+
+- #### **Hansel and Gretel**
+  _Interactive book._  
+  https://itunes.apple.com/us/app/hansel-gretel-childrens-interactive/id396998808
+
+  _Responsibilities_: main developer  
+  _Stack_: UIKit
+
+<br/>
+
+- #### **Apartment Rentals**
+  _Find apartments, codos and houses for rent with the ApartmentRentals.com mobile app. Search for properties nearby, filter by price, bathrooms and bedrooms. See pictures and floor plans, and contact listings by phone or by submitting a form from within the app._  
+  https://itunes.apple.com/us/app/apartment-rentals/id588135302
+
+  _Responsibilities_: Implement most of the application  
+  _Stack_: UIKit, WebKit, CoreLocation
