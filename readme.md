@@ -1,21 +1,22 @@
-# Ivan Zezyulya
-<img align="right" src="images/photo.png"/>  
+<!-- # Ivan Zezyulya
+<img align="right" src="images/photo.png"/>   -->
 
 ## iOS Developer
-📍 Omsk, Russia  
-Social links: 
- - [GitHub](https://github.com/ivanzoid)
- - [StackOverflow](https://stackoverflow.com/users/299063/ivanzoid)
- - [LinkedIn](https://www.linkedin.com/in/ivanzezyulya/)
- - [Telegram](http://t.me/ivanzoid)
- - [VK](https://vk.com/ivanzoid)
+Omsk, Russia  
+Social links:
 
-Up to date version of this CV: https://github.com/ivanzoid/cv
+* [GitHub](https://github.com/ivanzoid)
+* [StackOverflow](https://stackoverflow.com/users/299063/ivanzoid)
+* [LinkedIn](https://www.linkedin.com/in/ivanzezyulya/)
+* [Telegram](http://t.me/ivanzoid)
+* [VK](https://vk.com/ivanzoid)
 
-## About
+Up to date version of this CV: [https://github.com/ivanzoid/cv](https://github.com/ivanzoid/cv).
+
+### About
 About 9 years in iOS development.
 
-## Technical skills
+### Technical skills
 - Primary programming languages: Swift
 - Worked with: Objective-C, Golang, C, C++, Python, PHP, Ruby, JavaScript, Bash, Assembly (x86), SQL, HTML, CSS
 - Frameworks and libraries:
@@ -71,10 +72,10 @@ About 9 years in iOS development.
 - Version control: Git, Subversion
 - English: Technical vocabulary, reading 8/10, writing 7/10, speaking 7/10
 
-## Employment History
+### Employment History
 - #### Senior iOS Developer at [Effective](https://effective.band/)
   Oct 2018 — Now
-- #### Senior iOS Developer at [Loud & Clear](https://loudclear.com.au) (aquired in 2018 by [Avanade](https://www.avanade.com/))
+- #### Senior iOS Developer at [Loud & Clear](https://loudclear.com.au) (acquired in 2018 by [Avanade](https://www.avanade.com/))
   Nov 2016 — Jun 2018
 - #### Senior iOS Developer at [AppsQuick.ly](http://appsquick.ly)
   Oct 2015 — Aug 2016
@@ -91,15 +92,15 @@ About 9 years in iOS development.
 - #### Software developer at [ISS Art Ltd.](https://issart.com)
   Nov 2006 — Mar 2007
 
-## Education
+### Education
 - ##### Omsk State University, Omsk
   Faculty of Mathematics, 2003 - 2006
 - ##### Physics and Mathematics Lyceum 64, Omsk
   2000 - 2003
 
-## Work examples (apps)
+### Work examples (apps)
 
-- ## [Vampr](http://www.vampr.me)
+- #### [Vampr](http://www.vampr.me)
   _Social network for musicians._  
   _In [Best of 2017](https://web.archive.org/web/20180125053240/https://developer.apple.com/app-store/best-of-2017/trends-of-the-year/) app list by Apple._  
   3.5M+ connections as of Nov 2018.
@@ -112,7 +113,7 @@ About 9 years in iOS development.
   
   Stack: UIKit, UIKit Dynamics, MVC.
 
-- ## [The Sun Dream Team FC](https://www.dreamteamfc.com/c/)
+- #### [The Sun Dream Team FC](https://www.dreamteamfc.com/c/)
   _Fantasy football app for English Premier League._  
   500K users/month after launch.  
   Responsibilities: UI, Business logic and networking code. Implemented player field screen in 3D using UIKit.   
