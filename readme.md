@@ -25,16 +25,16 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
 - Can propose new features/solutions for business, estimate and write docs for them, implement, test and deploy
 - Could lead a small team of developers (gathering information, preparing tasks, code review)
 - Love automation (could it be CI/CD, or local scripts or code generation) when it saves time/resources
-- Have backend development experience (Go/Python/Ruby), which helps me to understand overall product architecture and communicate with backend team
+- Have backend development experience (Go/Python/PHP), which helps me to understand overall product architecture and communicate with backend team
 
 ### **Tech Stack**
 - **iOS**:
-  - Swift, MVVM
+  - Swift, Objective-C, MVVM
   - _System frameworks_: AVFoundation (video conversion/merging/cutting), AddressBook (contact list), AudioToolbox (low-level audio playback), AutoLayout, CFNetwork (low-level networking), CoreAnimation (/QuartzCore, advanced animations), CoreData, CoreGraphics (manual drawing), CoreLocation, CoreMotion (implementing AR before ARKit), CoreTelephony (determining cellular network type), EventKit (adding/reading events in calendar), Grand Central Dispatch, MapKit, Metal, Photos, Push Notifications, Security (interacting with Keychain), Social, SQLite, StoreKit (in-app purchases), UIKit, UIKit Dynamics, UserNotifications, WebKit, XCTest
   - _Libs/frameworks_: AWS SDK, Bugfender SDK, Firebase/Google Analytics, Google protobuf, Lottie, MagicalRecord, OpenAPI (Swagger), R.swift, Realm, RxSwift/RxCocoa, Quick/Nimble, Sentry API, SnapKit, SoundCloud API, SwiftLint, TestFlight, Youtube API
   - _CI_: Circle CI
   - _Automation_: CocoaPods, fastlane
-- **Backend**: Golang, General Linux/Unix command-line experience, Ubuntu Server, Some Amazon AWS products (S3, EC2, DynamoDB, Redshift), PostgreSQL, MySQL, bash, rsync, scp, screen, httpie
+- **Backend**: Golang, General Linux/Unix command-line experience, Ubuntu Server, Some Amazon AWS products (S3, EC2, DynamoDB, Redshift), PostgreSQL, MySQL, Python, PHP, bash, rsync, scp, screen, httpie, curl
 - **DevOps**: Ansible
 - **C++**: Qt, wxWidgets, STL
 - **Python**: Python3, TCP sockets, Django
