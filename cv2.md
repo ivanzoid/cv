@@ -25,6 +25,19 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
 - Can propose new features/solutions for business, estimate and write docs for them, implement, test and deploy
 - Could lead a small team of developers (gathering information, preparing tasks, code review)
 - Love automation (could it be CI/CD, or local scripts or code generation) when it saves time/resources
+- Have backend development experience (Go/Python/Ruby), which helps me to understand overall product architecture and communicate with backend team
+
+### **Tech Stack**
+- **iOS**:
+  - Swift, MVVM
+  - _System frameworks_: AVFoundation (video conversion/merging/cutting), AddressBook (contact list), AudioToolbox (low-level audio playback), AutoLayout, CFNetwork (low-level networking), CoreAnimation (/QuartzCore, advanced animations), CoreData, CoreGraphics (manual drawing), CoreLocation, CoreMotion (implementing AR before ARKit), CoreTelephony (determining cellular network type), EventKit (adding/reading events in calendar), Grand Central Dispatch, MapKit, Metal, Photos, Push Notifications, Security (interacting with Keychain), Social, SQLite, StoreKit (in-app purchases), UIKit, UIKit Dynamics, UserNotifications, WebKit, XCTest
+  - _Libs/frameworks_: AWS SDK, Bugfender SDK, Firebase/Google Analytics, Google protobuf, Lottie, MagicalRecord, OpenAPI (Swagger), R.swift, Realm, RxSwift/RxCocoa, Quick/Nimble, Sentry API, SnapKit, SoundCloud API, SwiftLint, TestFlight, Youtube API
+  - _CI_: Circle CI
+  - _Automation_: CocoaPods, fastlane
+- **Backend**: Golang, General Linux/Unix command-line experience, Ubuntu Server, Some Amazon AWS products (S3, EC2, DynamoDB, Redshift), PostgreSQL, MySQL, bash, rsync, scp, screen, httpie
+- **DevOps**: Ansible
+- **C++**: Qt, wxWidgets, STL
+- **Python**: Python3, TCP sockets, Django
 
 ### **Employment history**
 | Period | Description |
@@ -53,7 +66,8 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
   _Social network for musicians._
   In [Best of 2017](https://web.archive.org/web/20180125053240/https://developer.apple.com/app-store/best-of-2017/trends-of-the-year/) app list by Apple.  
   3.5M+ connections as of Nov 2018.  
-  https://vampr.me
+  https://vampr.me  
+  https://apps.apple.com/app/vampr/id1069819177
   
   _Responsibilites_:
    - App architecture from ground up.
@@ -82,9 +96,12 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
 <br/>
 
 * #### **iHerb**  
+  <img align="right" src="images/apps/iherb.png" width="100"/> 
+
+
   _Mobile app for iHerb online store._  
   Participated in base stage of app development.  
-  https://itunes.apple.com/us/app/iherb/id636609212
+  https://apps.apple.com/app/iherb/id636609212
 
   _Responsibilities_:
     - Base architecture
@@ -105,20 +122,26 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
 
 <br/>
 
-- #### **Mokka**
+- #### **Mokka**  
+  <img align="right" src="images/apps/mokka.png" width="100"/> 
+
+
   _Finance service client._  
-  https://apps.apple.com/us/app/id1499342014  
+  https://apps.apple.com/app/id1499342014  
 
-  _Responsibilities_: implementing features.  
+  _Responsibilities_:
+    - Implementing features.
+    - Code review
+    - Unit tests
 
-  _Stack_: Swift, MVVM, SnapKit.
+  _Stack_: Swift, MVVM, SnapKit, Repositories
 
 <br/>
 
 - #### **Fernwood Fitness**
   _App for Australia’s largest female fitness network, Fernwood Fitness._  
   https://www.fernwoodfitness.com.au  
-  https://itunes.apple.com/au/app/fernwood/id1433822715  
+  https://apps.apple.com/au/app/fernwood/id1433822715  
   
   _Responsibilities_: UI, Business logic and networking code.  
   
@@ -138,7 +161,7 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
 
 - #### **Momatu**
   _App for organizing memories._  
-  https://itunes.apple.com/us/app/momatu/id1313564080  
+  https://apps.apple.com/us/app/momatu/id1313564080  
 
   _Responsibilities_: UI, Business logic and networking code. 
 
@@ -146,9 +169,11 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
 
 <br/>
 
-- #### **StartFX**
+- #### **StartFX**  
+  <img align="right" src="images/apps/startfx.png" width="100"/> 
+
   _Trading terminal app._  
-  https://itunes.apple.com/us/app/startfx/id684181266  
+  https://apps.apple.com/us/app/startfx/id684181266  
 
   _Responsibilities_: 
     - developing all networking code
@@ -196,9 +221,11 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
 
 <br/>
 
-- #### **_Apartment search applications_**
+- #### **_Apartment search applications_**  
+  <img align="right" src="images/apps/apartmentSearch/beresfords.png" width="110"/> 
+
   _Series of applications (20+ apps) for real estate agencies in UK._  
-  https://itunes.apple.com/us/app/henry-adams/id377862665  
+  https://apps.apple.com/us/app/henry-adams/id377862665  
 
   _Responsibilities_: fixing bugs, improving application, adding features, implementing new applications for other agencies.
 
@@ -212,7 +239,7 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
     - [Chase Buchanan](https://www.chasebuchanan.london/)
     - [Colin Bibra](https://www.colinbibra.com)
     - [Gascoigne Halman](https://www.gascoignehalman.co.uk/)
-    - [Henry Adams](https://itunes.apple.com/us/app/henry-adams/id377862665)
+    - [Henry Adams](https://apps.apple.com/us/app/henry-adams/id377862665)
     - [Icon Residential](https://iconresliving.com/)
     - [Lex Allan Estate Agents](https://lexallan.co.uk/)
     - [Life Residential](https://liferesidential.co.uk/)
@@ -232,7 +259,7 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
 
 - #### **Backend server for HAPOC game** 
   _HAPOC is online multiplayer casual game for guessing words by first letters._  
-  https://itunes.apple.com/us/app/hapoc-human-animal-plant-object/id497325725?mt=8  
+  https://apps.apple.com/us/app/hapoc-human-animal-plant-object/id497325725?mt=8  
 
   _Responsibilities_: develop from scratch server for iOS game Hapoc  
 
@@ -242,7 +269,7 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
 
 - #### **Custody Connection**
   _Custody Connection is an easily viewable calendar, where parents can sync with each other to create, manage, trade days and view their custody schedule in one central location, anytime, anywhere they go with their iPhone, iTouch or iPad._  
-  https://itunes.apple.com/us/app/custody-connection/id472605882  
+  https://apps.apple.com/us/app/custody-connection/id472605882  
 
   _Responsibilities_: fixing bugs, adding new features  
 
@@ -252,7 +279,7 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
 
 - #### **Hansel and Gretel**
   _Interactive book._  
-  https://itunes.apple.com/us/app/hansel-gretel-childrens-interactive/id396998808
+  https://apps.apple.com/us/app/hansel-gretel-childrens-interactive/id396998808
 
   _Responsibilities_: main developer  
   _Stack_: UIKit
@@ -261,7 +288,7 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
 
 - #### **Apartment Rentals**
   _Find apartments, codos and houses for rent with the ApartmentRentals.com mobile app. Search for properties nearby, filter by price, bathrooms and bedrooms. See pictures and floor plans, and contact listings by phone or by submitting a form from within the app._  
-  https://itunes.apple.com/us/app/apartment-rentals/id588135302
+  https://apps.apple.com/us/app/apartment-rentals/id588135302
 
   _Responsibilities_: Implement most of the application  
   _Stack_: UIKit, WebKit, CoreLocation

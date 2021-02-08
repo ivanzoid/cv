@@ -122,7 +122,7 @@ About 9 years in iOS development.
     - https://www.dreamteamfc.com/c/
     - https://apps.apple.com/gb/app/dream-team-fantasy-football/id337710261
 
-- ## [iHerb](https://itunes.apple.com/us/app/iherb/id636609212)
+- ## [iHerb](https://apps.apple.com/us/app/iherb/id636609212)
   _Mobile app for iHerb online store._  
   Participated in base stage of app development.  
   Responsibilities:
@@ -142,7 +142,7 @@ About 9 years in iOS development.
   Responsibilities: implementing features.  
   Stack: Swift, MVVM, SnapKit.
 
-- ## [Fernwood Fitness](https://itunes.apple.com/au/app/fernwood/id1433822715)
+- ## [Fernwood Fitness](https://apps.apple.com/au/app/fernwood/id1433822715)
   _App for Australia’s largest female [fitness network](https://www.fernwoodfitness.com.au)._  
   Responsibilities: UI, Business logic and networking code.  
   Stack: UIKit, OpenApi 3.0.
@@ -152,12 +152,12 @@ About 9 years in iOS development.
   Responsibilities: UI, Business logic and networking code.  
   Stack: UIKit, CorePlot, VIPER, OpenApi 2.0 (Swagger)
 
-- ## [Momatu](https://itunes.apple.com/us/app/momatu/id1313564080)
+- ## [Momatu](https://apps.apple.com/us/app/momatu/id1313564080)
   _App for organizing memories._  
   Responsibilities: UI, Business logic and networking code.  
   Stack: UIKit, UIKit Dynamics.
 
-- ## [StartFX](https://itunes.apple.com/us/app/startfx/id684181266)
+- ## [StartFX](https://apps.apple.com/us/app/startfx/id684181266)
   _Trading terminal app._  
   Responsibilities: developing all networking code, business logics for operations with deals (open/close/change), part of UI.  
   Stack: TCP sockets, UIKit, OpenGL, CoreData, GCD.
@@ -173,7 +173,7 @@ About 9 years in iOS development.
   Responsibilities: main developer  
   Stack: SIO2 (3D Engine for iPhone/Android), XMPPFramework (XMPP/Jabber library for iOS), Urban Airship (Push notifications), ASIHttpRequest (networking), Twitter API, Facebook SDK, Google Calendar API, Youtube API, Airbrake (error reporting), SudzC (SOAP service wrappers generator).
 
-- ## [Apartment search applications](https://itunes.apple.com/us/app/henry-adams/id377862665)
+- ## [Apartment search applications](https://apps.apple.com/us/app/henry-adams/id377862665)
   _Series of applications (20+ apps) for real estate agencies in UK._  
   Responsibilities: fixing bugs, improving application, adding features, implementing new applications for other agencies.
   Stack: UIKit, CoreLocation, XML, MapKit.  
@@ -185,7 +185,7 @@ About 9 years in iOS development.
   - [Chase Buchanan](https://www.chasebuchanan.london/)
   - [Colin Bibra](https://www.colinbibra.com)
   - [Gascoigne Halman](https://www.gascoignehalman.co.uk/)
-  - [Henry Adams](https://itunes.apple.com/us/app/henry-adams/id377862665)
+  - [Henry Adams](https://apps.apple.com/us/app/henry-adams/id377862665)
   - [Icon Residential](https://iconresliving.com/)
   - [Lex Allan Estate Agents](https://lexallan.co.uk/)
   - [Life Residential](https://liferesidential.co.uk/)
@@ -201,22 +201,22 @@ About 9 years in iOS development.
   - [Waterfords](https://www.waterfords.co.uk/)
   - [Winchester Lettings](https://www.winchester-white.co.uk/)
 
-- ## Backend server for [HAPOC](https://itunes.apple.com/us/app/hapoc-human-animal-plant-object/id497325725?mt=8) game 
+- ## Backend server for [HAPOC](https://apps.apple.com/us/app/hapoc-human-animal-plant-object/id497325725?mt=8) game 
   _HAPOC is online multiplayer casual game for guessing words by first letters._  
   Responsibilities: develop from scratch server for iOS game Hapoc  
   Stack: Python 2.6, TCP sockets, Linux
 
-- ## [Custody Connection](https://itunes.apple.com/us/app/custody-connection/id472605882)
+- ## [Custody Connection](https://apps.apple.com/us/app/custody-connection/id472605882)
   _Custody Connection is an easily viewable calendar, where parents can sync with each other to create, manage, trade days and view their custody schedule in one central location, anytime, anywhere they go with their iPhone, iTouch or iPad._  
   Responsibilities: fixing bugs, adding new features  
   Stack: iOS: UIKit, CoreData, Calendar API; Server-side: C#, MS SQL Server
 
-- ## [Hansel and Gretel](https://itunes.apple.com/us/app/hansel-gretel-childrens-interactive/id396998808)
+- ## [Hansel and Gretel](https://apps.apple.com/us/app/hansel-gretel-childrens-interactive/id396998808)
   _Interactive book._  
   Responsibilities: main developer  
   Stack: UIKit
 
-- ## [Apartment Rentals](https://itunes.apple.com/us/app/apartment-rentals/id588135302)
+- ## [Apartment Rentals](https://apps.apple.com/us/app/apartment-rentals/id588135302)
   _Find apartments, codos and houses for rent with the ApartmentRentals.com mobile app. Search for properties nearby, filter by price, bathrooms and bedrooms. See pictures and floor plans, and contact listings by phone or by submitting a form from within the app._  
   Responsibilities: Implement most of the application  
   Stack: UIKit, WebKit, CoreLocation
