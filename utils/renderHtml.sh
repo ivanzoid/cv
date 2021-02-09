@@ -20,7 +20,7 @@ main()
     echo "</style>" >> tmp.css
 
     FILENAME='Ivan Zezyulya.md'
-    cp ../cv2.md "$FILENAME"
+    cp ../readme.md "$FILENAME"
     
     pandoc -s -f gfm -t html5 -H tmp.css "$FILENAME" > ../cv.html
 
