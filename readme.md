@@ -12,7 +12,7 @@ Links:
 * Telegram: http://t.me/ivanzoid
 * VK: https://vk.com/ivanzoid
 * Blog: http://zoid.cc
-* CV (this one): https://github.com/ivanzoid/cv
+* CV (this one): https://github.com/ivanzoid/cv or https://ivanzoid.github.io/cv/
 
 ### **About**
 12 years of software development (9 years in iOS).
