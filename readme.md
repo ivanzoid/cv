@@ -2,7 +2,7 @@
 <img align="right" src="images/photo.png"/>  
 
 ### **iOS Developer**
-_Omsk, Russia_  
+_Omsk, Russia (UTC+6)_
 
 Links:
 
