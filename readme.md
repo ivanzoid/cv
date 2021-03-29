@@ -34,9 +34,10 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
   - _Libs/frameworks_: AWS SDK, Bugfender SDK, Firebase/Google Analytics, Google protobuf, Lottie, MagicalRecord, OpenAPI (Swagger), R.swift, Realm, RxSwift/RxCocoa, Quick/Nimble, Sentry API, SnapKit, SoundCloud API, SwiftLint, TestFlight, Youtube API
   - _CI_: Circle CI
   - _Automation_: CocoaPods, fastlane
-- **Backend**: Golang, General Linux/Unix command-line experience, Ubuntu Server, Some Amazon AWS products (S3, EC2, DynamoDB, Redshift), PostgreSQL, MySQL, Python, PHP, bash, rsync, scp, screen, httpie, curl
-- **DevOps**: Ansible
-- **C++**: Qt, wxWidgets, STL
+- **Backend**: Golang, General Linux/Unix command-line experience, Some Amazon AWS products (S3, EC2, DynamoDB, Redshift), PostgreSQL, MySQL, Python, PHP, bash, httpie, curl
+- **Frontend**: JavaScript, CSS/HTML5, Django, jQuery
+- **DevOps**: Ansible, Ubuntu Servier, Docker, rsync, scp, Let's Encrypt, nginx, MySQL, Postfix (+SPF/DKIM/DMARC)
+- **C++**: C++11, STL, Qt, wxWidgets
 - **Python**: Python3, TCP sockets, Django
 
 ### **Employment history**
