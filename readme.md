@@ -6,6 +6,7 @@ _Omsk, Russia (UTC+6)_
 
 Links:
 
+* E-mail: job@zoid.cc
 * GitHub: https://github.com/ivanzoid
 * StackOverflow: https://stackoverflow.com/story/ivan_zezyulya
 * LinkedIn: https://www.linkedin.com/in/ivanzezyulya/
