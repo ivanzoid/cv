@@ -61,6 +61,32 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
 
 ### **Work examples (apps)**
 
+* #### **Veriflix**
+  <img align="right" src="images/apps/veriflix.png" width="110"/>  
+
+  _A set of apps for news companies in Belgium and France._  
+  https://apps.apple.com/us/app/si-video/id1483933497  
+  https://apps.apple.com/us/app/lv-video/id1523811860  
+  _... plus 7 more_
+  
+  _My role_:
+   - Main app developer
+  
+  _Achievements_:
+   - Propose, document, estimate, implement and deploy new advanced video recording pipeline, which contains reording/deleting/cutting/adding text/merging of recorded videos
+   - Implemented a logging system (which was totally missed before) which sends logs to cloud service, this allows us to troubleshoot bugs even in production
+   - Propose & implement a camera UI (and logics) which copies interface of standard iOS camera app (0.5x/1x/2x buttons and so on)
+   - Fully automate build process using fastlane. Given the number of apps (18) this was a huge time-saver
+   - Integrate R.swift (and use it for localization, images, and files) which reduces chances of runtime errors
+   - Fully migrate to Swift from Objective-C
+   - Migrate SDK to XCFramework, automate binary builds, create CocoaPods distribution
+   - Rework SDK documentation, move it from raw HTML to MarkDown + automated HTML generation
+
+  _Stack_:  
+   - UIKit, Custom networking, MVVM, CocoaPods.
+
+<br/>
+
 * #### **Vampr**
   <img align="right" src="images/apps/vampr.png" width="110"/>  
 
