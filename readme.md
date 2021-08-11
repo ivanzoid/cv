@@ -158,30 +158,42 @@ I worked on numerous iOS projects, some successful (thousands and millions of us
   https://apps.apple.com/app/id1499342014  
 
   _Responsibilities_:
-    - Implementing features.
+    - Implementing new features
     - Code review
     - Unit tests
 
-  _Stack_: Swift, MVVM, SnapKit, Repositories
+  _Stack_: Swift, MVVM, SnapKit, Repositories, Alamofire
 
 <br/>
 
 - #### **Fernwood Fitness**
   _App for Australia’s largest female fitness network, Fernwood Fitness._  
+   <img align="right" src="images/apps/fernwood.png" width="100"/> 
   https://www.fernwoodfitness.com.au  
   https://apps.apple.com/au/app/fernwood/id1433822715  
   
-  _Responsibilities_: UI, Business logic and networking code.  
+  _Responsibilities_: 
+   - UI
+   - Business logic
+   - Networking code
+   - Unit tests
+   - CI
   
-  _Stack_: UIKit, OpenApi 3.0.
+  _Stack_: UIKit, VPIER, OpenApi 3.0 (Swagger).
 
 <br/>
 
 - #### **Fisho**
+  <img align="right" src="images/apps/fisho.png" width="100"/>  
+  
   _Social network for fishers in Australia._  
   https://www.fishoapp.com.au  
 
-  _Responsibilities_: UI, Business logic and networking code. 
+  _Responsibilities_:
+   - UI
+   - Business logic
+   - Networking code
+   - Unit tests
 
   _Stack_: UIKit, CorePlot, VIPER, OpenApi 2.0 (Swagger)
 
